@@ -1,0 +1,137 @@
+body{
+	background: grey;
+	font-size: 15px;
+
+}
+
+a
+{
+	text-decoration: none;
+	color: #f4f4f4;}
+
+
+h2
+{
+	
+
+}
+
+h3{
+	
+	width: 700px;
+	padding: 0px 6px; 
+	margin: 0px;
+	text-decoration: underline;
+	text-align: center;
+	background: darkgrey;
+	float: left;
+}
+#principal{
+	background: ;
+}
+
+#logo{
+	width: 80px;
+	padding-bottom: px;
+	float: right;
+	
+}
+
+#destaque{
+	
+	font:"Arial Black", Gadget, sans-serif;
+	font-size: 15px;
+
+}
+
+
+
+#imagem-edu{
+	float: left;
+	background: #CEF6E3;
+	height: 180px;
+	width: 225px;
+	padding: 5px;
+	border: none;
+	margin-left: 30px;
+	margin-top: 10px;
+	
+}
+
+#texto_noticia{
+	color: black;
+	margin: 5px;
+	border: 1px solid blanchedalmond;
+	width: 450px;
+	padding: 5px 0px; 
+	margin: 5px;
+	text-decoration: underline;
+	text-align: center;
+	background: darkgrey;
+	
+	}
+
+#texto_edu{
+	float: left;
+	padding-top: 10px;
+	font-size: 30px;
+	text-decoration: underline;
+	color: black;
+	margin: 80px;
+}
+.clear{
+	clear: both;
+}
+
+.menu{
+	background: #0B3B17;
+	
+	padding: 5px;
+	font-size: 25px;
+
+}
+.titulo{
+	color: #1C1C1C;
+	font: "Courier New", Courier, monospace;
+	background: white;
+	padding:10px;
+	border: 5px double black;
+}
+
+.titulo_sub{
+
+	color: #1C1C1C;
+	font: "Courier New", Courier, monospace;
+	background: white;
+	width: 250px;
+	padding:10px;
+	border: 5px double black;
+	text-align: center;
+	margin: 10px;
+	float:none ;
+}
+
+.rodape{
+
+	text-align: center;
+	color: black;
+	font-size: 18px;
+	margin: 50px;
+	background: darkgrey;
+}
+
+
+ .imagem_destaque{
+
+  	float: left;
+  	width: 450px;
+  	background: darkgrey;
+	padding: 10px;
+	border: 1px double black;
+	margin: 2.5px;
+}
+
+img{
+  width: 100%;
+
+}
